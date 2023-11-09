@@ -5,8 +5,7 @@
 Deep learning-based system to predict the functional impact resulting from point mutations, through the identification of discriminative and non-trivial conformational changes in molecular dynamics simulations.
 
 ![Static Badge](https://img.shields.io/badge/build-v1.0.0-blue?label=version)
-[![GitHub Last Commit](https://img.shields.io/github/last-commit/lucasmds-dev/MD-ML-Project)](https://github.com/lucasmds-dev/MD-ML-Project/commits)
-
+[![GitHub Last Commit](https://img.shields.io/github/last-commit/LBS-UFMG/MD-ML-Project)](https://github.com/LBS-UFMG/MD-ML-Project/commits)
 
 **Table of Contents**
 
