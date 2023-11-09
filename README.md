@@ -6,6 +6,8 @@ Deep learning-based system to predict the functional impact resulting from point
 
 ![Static Badge](https://img.shields.io/badge/build-v1.0.0-blue?label=version)
 [![GitHub Last Commit](https://img.shields.io/github/last-commit/LBS-UFMG/MD-ML-Project)](https://github.com/LBS-UFMG/MD-ML-Project/commits)
+[![Coverage](https://codecov.io/gh/LBS-UFMG/MD-ML-Project/branch/master/graph/badge.svg)](https://codecov.io/gh/LBS-UFMG/MD-ML-Project)
+
 
 **Table of Contents**
 
