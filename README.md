@@ -1,6 +1,6 @@
-#### MD-ML-Project
+### MD-ML-Project
 
-##### Description
+#### Description
 
 Deep learning-based system to predict the functional impact resulting from point mutations, through the identification of discriminative and non-trivial conformational changes in molecular dynamics simulations.
 
@@ -10,14 +10,7 @@ Deep learning-based system to predict the functional impact resulting from point
 [![GitHub Stars](https://img.shields.io/github/stars/LBS-UFMG/MD-ML-Project?style=social)](https://github.com/LBS-UFMG/MD-ML-Project)
 [![GitHub Forks](https://img.shields.io/github/forks/LBS-UFMG/MD-ML-Project?style=social)](https://github.com/LBS-UFMG/MD-ML-Project)
 
-
-**Table of Contents**
-
-[TOCM]
-
-[TOC]
-
-##### Requirements
+#### Requirements
 
 To run this project, you'll need the following Python packages with specific versions:
 
