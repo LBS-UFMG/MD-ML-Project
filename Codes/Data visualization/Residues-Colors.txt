@@ -1,0 +1,194 @@
+Residue:  1 [ 52.  46. 116.] 342E74
+Residue:  2 [ 67.  64. 133.] 434085
+Residue:  3 [ 72.  73. 140.] 48498C
+Residue:  4 [ 67.  72. 138.] 43488A
+Residue:  5 [ 65.  74. 139.] 414A8B
+Residue:  6 [ 63.  76. 139.] 3F4C8B
+Residue:  7 [ 60.  76. 138.] 3C4C8A
+Residue:  8 [ 62.  77. 139.] 3E4D8B
+Residue:  9 [ 64.  76. 138.] 404C8A
+Residue:  10 [ 65.  75. 138.]414B8A
+Residue:  11 [ 67.  76. 139.]434C8B
+Residue:  12 [ 71.  76. 140.]474C8C
+Residue:  13 [ 71.  76. 139.]474C8B
+Residue:  14 [ 69.  76. 138.]454C8A
+Residue:  15 [ 69.  77. 139.]454D8B
+Residue:  16 [ 71.  78. 140.]474E8C
+Residue:  17 [ 72.  77. 138.]484D8A
+Residue:  18 [ 75.  76. 136.]4B4C88
+Residue:  19 [ 74.  77. 136.]4A4D88
+Residue:  20 [ 73.  79. 138.]494F8A
+Residue:  21 [ 74.  78. 138.]4A4E8A
+Residue:  22 [ 76.  78. 141.]4C4E8D
+Residue:  23 [ 75.  77. 142.]4B4D8E
+Residue:  24 [ 71.  77. 139.]474D8B
+Residue:  25 [ 69.  75. 140.]454B8C
+Residue:  26 [ 68.  76. 141.]444C8D
+Residue:  27 [ 67.  74. 139.]434A8B
+Residue:  28 [ 65.  75. 138.]414B8A
+Residue:  29 [ 69.  75. 138.]454B8A
+Residue:  30 [ 72.  76. 139.]484C8B
+Residue:  31 [ 77.  76. 138.]4D4C8A
+Residue:  32 [ 81.  77. 139.]514D8B
+Residue:  33 [ 74.  76. 141.]4A4C8D
+Residue:  34 [ 74.  76. 141.]4A4C8D
+Residue:  35 [ 69.  76. 139.]454C8B
+Residue:  36 [ 76.  77. 139.]4C4D8B
+Residue:  37 [ 76.  76. 138.]4C4C8A
+Residue:  38 [ 70.  76. 140.]464C8C
+Residue:  39 [ 71.  77. 139.]474D8B
+Residue:  40 [ 75.  77. 140.]4B4D8C
+Residue:  41 [ 70.  73. 138.]46498A
+Residue:  42 [ 73.  74. 139.]494A8B
+Residue:  43 [ 72.  75. 140.]484B8C
+Residue:  44 [ 72.  75. 140.]484B8C
+Residue:  45 [ 71.  76. 139.]474C8B
+Residue:  46 [ 70.  76. 139.]464C8B
+Residue:  47 [ 70.  77. 139.]464D8B
+Residue:  48 [ 73.  77. 139.]494D8B
+Residue:  49 [ 74.  76. 138.]4A4C8A
+Residue:  50 [ 75.  77. 140.]4B4D8C
+Residue:  51 [ 72.  78. 141.]484E8D
+Residue:  52 [ 71.  78. 140.]474E8C
+Residue:  53 [ 74.  77. 139.]4A4D8B
+Residue:  54 [ 70.  76. 139.]464C8B
+Residue:  55 [ 70.  76. 138.]464C8A
+Residue:  56 [ 80.  79. 140.]504F8C
+Residue:  57 [ 75.  79. 144.]4B4F90
+Residue:  58 [ 70.  78. 141.]464E8D
+Residue:  59 [ 72.  78. 140.]484E8C
+Residue:  60 [ 72.  78. 141.]484E8D
+Residue:  61 [ 73.  73. 139.]49498B
+Residue:  62 [ 73.  73. 139.]49498B
+Residue:  63 [ 75.  74. 141.]4B4A8D
+Residue:  64 [ 82.  78. 144.]524E90
+Residue:  65 [ 77.  85. 142.]4D558E
+Residue:  66 [ 74.  83. 141.]4A538D
+Residue:  67 [ 70.  82. 142.]46528E
+Residue:  68 [ 70.  82. 141.]46528D
+Residue:  69 [ 71.  80. 141.]47508D
+Residue:  70 [ 72.  82. 140.]48528C
+Residue:  71 [ 73.  82. 139.]49528B
+Residue:  72 [ 74.  78. 139.]4A4E8B
+Residue:  73 [ 79.  76. 139.]4F4C8B
+Residue:  74 [ 73.  75. 137.]494B89
+Residue:  75 [ 76.  78. 140.]4C4E8C
+Residue:  76 [ 76.  78. 141.]4C4E8D
+Residue:  77 [ 71.  76. 139.]474C8B
+Residue:  78 [ 68.  76. 139.]444C8B
+Residue:  79 [ 75.  77. 139.]4B4D8B
+Residue:  80 [ 78.  77. 140.]4E4D8C
+Residue:  81 [ 76.  75. 142.]4C4B8E
+Residue:  82 [ 73.  78. 141.]494E8D
+Residue:  83 [ 73.  78. 141.]494E8D
+Residue:  84 [ 75.  75. 142.]4B4B8E
+Residue:  85 [ 71.  73. 138.]47498A
+Residue:  86 [ 73.  74. 137.]494A89
+Residue:  87 [ 77.  75. 141.]4D4B8D
+Residue:  88 [ 79.  78. 141.]4F4E8D
+Residue:  89 [ 74.  78. 140.]4A4E8C
+Residue:  90 [ 71.  77. 139.]474D8B
+Residue:  91 [ 74.  78. 143.]4A4E8F
+Residue:  92 [ 76.  79. 143.]4C4F8F
+Residue:  93 [ 73.  80. 142.]49508E
+Residue:  94 [ 75.  76. 140.]4B4C8C
+Residue:  95 [ 75.  75. 138.]4B4B8A
+Residue:  96 [ 69.  78. 141.]454E8D
+Residue:  97 [ 79.  77. 139.]4F4D8B
+Residue:  98 [ 78.  76. 139.]4E4C8B
+Residue:  99 [ 74.  78. 140.]4A4E8C
+Residue:  100 [ 73.  79. 143.]494F8F
+Residue:  101 [ 72.  82. 142.]48528E
+Residue:  102 [ 69.  82. 141.]45528D
+Residue:  103 [ 67.  81. 140.]43518C
+Residue:  104 [ 70.  81. 141.]46518D
+Residue:  105 [ 70.  79. 140.]464F8C
+Residue:  106 [ 74.  76. 139.]4A4C8B
+Residue:  107 [ 75.  77. 141.]4B4D8D
+Residue:  108 [ 71.  76. 138.]474C8A
+Residue:  109 [ 70.  77. 138.]464D8A
+Residue:  110 [ 72.  76. 139.]484C8B
+Residue:  111 [ 78.  76. 142.]4E4C8E
+Residue:  112 [ 79.  82. 147.]4F5293
+Residue:  113 [ 80. 124. 149.]507C95
+Residue:  114 [ 75. 124. 154.]4B7C9A
+Residue:  115 [ 76. 118. 152.]4C7698
+Residue:  116 [ 76. 102. 144.]4C6690
+Residue:  117 [ 76.  87. 143.]4C578F
+Residue:  118 [ 78.  80. 140.]4E508C
+Residue:  119 [ 79.  77. 139.]4F4D8B
+Residue:  120 [ 78.  78. 141.]4E4E8D
+Residue:  121 [ 75.  79. 140.]4B4F8C
+Residue:  122 [ 76.  82. 141.]4C528D
+Residue:  123 [ 75.  86. 143.]4B568F
+Residue:  124 [ 73.  93. 148.]495D94
+Residue:  125 [ 74.  98. 152.]4A6298
+Residue:  126 [ 79.  98. 152.]4F6298
+Residue:  127 [ 81.  93. 147.]515D93
+Residue:  128 [ 81.  87. 141.]51578D
+Residue:  129 [ 82.  77. 141.]524D8D
+Residue:  130 [ 75.  77. 141.]4B4D8D
+Residue:  131 [ 71.  76. 139.]474C8B
+Residue:  132 [ 74.  77. 141.]4A4D8D
+Residue:  133 [ 78.  79. 142.]4E4F8E
+Residue:  134 [ 77.  77. 141.]4D4D8D
+Residue:  135 [ 77.  78. 141.]4D4E8D
+Residue:  136 [ 74.  77. 140.]4A4D8C
+Residue:  137 [ 77.  79. 147.]4D4F93
+Residue:  138 [ 76.  91. 152.]4C5B98
+Residue:  139 [ 76. 108. 153.]4C6C99
+Residue:  140 [ 72. 126. 151.]487E97
+Residue:  141 [ 71. 146. 147.]479293
+Residue:  142 [ 74. 169. 146.]4AA992
+Residue:  143 [ 89. 196. 151.]59C497
+Residue:  144 [104. 216. 158.]68D89E
+Residue:  145 [168. 235. 163.]A8EBA3
+Residue:  146 [186. 250. 169.]BAFAA9
+Residue:  147 [181. 243. 172.]B5F3AC
+Residue:  148 [155. 234. 158.]9BEA9E
+Residue:  149 [113. 214. 152.]71D698
+Residue:  150 [ 91. 211. 165.]5BD3A5
+Residue:  151 [ 83. 200. 161.]53C8A1
+Residue:  152 [100. 204. 152.]64CC98
+Residue:  153 [125. 211. 152.]7DD398
+Residue:  154 [154. 230. 156.]9AE69C
+Residue:  155 [145. 231. 152.]91E798
+Residue:  156 [100. 207. 158.]64CF9E
+Residue:  157 [ 84. 174. 162.]54AEA2
+Residue:  158 [ 82. 141. 167.]528DA7
+Residue:  159 [ 86. 113. 157.]56719D
+Residue:  160 [ 99.  99. 147.]636393
+Residue:  161 [ 79.  89. 147.]4F5993
+Residue:  162 [ 77.  87. 146.]4D5792
+Residue:  163 [ 77.  85. 144.]4D5590
+Residue:  164 [ 74.  84. 143.]4A548F
+Residue:  165 [ 75.  89. 144.]4B5990
+Residue:  166 [ 76.  93. 146.]4C5D92
+Residue:  167 [ 75.  96. 149.]4B6095
+Residue:  168 [ 76.  96. 150.]4C6096
+Residue:  169 [ 73.  92. 150.]495C96
+Residue:  170 [ 75.  85. 142.]4B558E
+Residue:  171 [ 75.  79. 139.]4B4F8B
+Residue:  172 [ 79.  75. 138.]4F4B8A
+Residue:  173 [ 82.  77. 142.]524D8E
+Residue:  174 [ 80.  76. 139.]504C8B
+Residue:  175 [ 77.  79. 141.]4D4F8D
+Residue:  176 [ 82.  80. 141.]52508D
+Residue:  177 [ 79.  85. 142.]4F558E
+Residue:  178 [ 77.  84. 142.]4D548E
+Residue:  179 [ 75.  82. 142.]4B528E
+Residue:  180 [ 75.  83. 147.]495593
+Residue:  181 [ 78.  88. 152.]4B5393
+Residue:  182 [ 77.  93. 150.]4D5D96
+Residue:  183 [ 76. 110. 151.]4C6E97
+Residue:  184 [ 75. 127. 151.]4B7F97
+Residue:  185 [ 73. 142. 148.]498E94
+Residue:  186 [ 74. 161. 153.]4AA199
+Residue:  187 [ 77. 177. 161.]4DB1A1
+Residue:  188 [ 79. 202. 165.]4FCAA5
+Residue:  189 [ 79. 207. 160.]4FCFA0
+Residue:  190 [ 90. 212. 157.]5AD49D
+Residue:  191 [ 84. 198. 154.]54C69A
+Residue:  192 [ 88. 197. 150.]58C596
+Residue:  193 [ 88. 207. 164.]58CFA4
+Residue:  194 [ 70. 171. 147.]46AB93
