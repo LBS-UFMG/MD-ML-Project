@@ -6,6 +6,8 @@ Created on Wed Jul 27 14:31:04 2022
 @author: gutembergue
 """
 
+data_dir = "../../Files/"
+
 # Importing necessary libraries for data manipulation and visualization
 import pandas as pd
 import numpy as np
@@ -13,7 +15,7 @@ from matplotlib import pyplot as pl
 import seaborn as sns
 
 # Loading data from a CSV file into a DataFrame
-df = pd.read_csv('rmsfrbm-+.csv')
+df = pd.read_csv(data_dir+'MD Analysis/rmsfrbm-+.csv')
 
 # Displaying the first few rows of the DataFrame to check its structure
 df.head()

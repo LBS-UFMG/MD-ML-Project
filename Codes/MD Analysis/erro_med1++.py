@@ -6,13 +6,15 @@ Created on Wed Jul 27 14:31:04 2022
 @author: gutembergue
 """
 
+data_dir = "../../Files/"
+
 # Importing necessary libraries for data manipulation and visualization
 import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
 
 # Loading data from a CSV file into a DataFrame
-df = pd.read_csv('rmsfrbd.csv') 
+df = pd.read_csv(data_dir+'MD Analysis/rmsfrbd.csv') 
 
 # Displaying the first few rows of the DataFrame to check its structure
 df.head()
