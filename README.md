@@ -2,7 +2,7 @@
 
 #### Description
 
-Deep learning-based system to predict the functional impact resulting from point mutations, through the identification of discriminative and non-trivial conformational changes in molecular dynamics simulations.
+Deep learning-based approach to discriminate non-trivial conformational changes in molecular dynamics (MD) simulations of SARS-CoV-2 spike-ACE2, related to the functional impact (infectivity and immunogenicity) of point mutations in the receptor-binding domain.
 
 ![Static Badge](https://img.shields.io/badge/build-v1.0.0-blue?label=version)
 [![GitHub Last Commit](https://img.shields.io/github/last-commit/LBS-UFMG/MD-ML-Project)](https://github.com/LBS-UFMG/MD-ML-Project/commits)
