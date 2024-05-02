@@ -1,4 +1,4 @@
-﻿Variant, Sensitivity, , Variant, 1-Specificity, , Type, μ, σ, , System, TP, FN, TN, FP
+﻿Variant, Sensitivity, , Mutation, 1-Specificity, , Type, μ, σ, , System, TP, FN, TN, FP
 Theta, 0.950, , Y505F, 0.458, , + +, 0.800, 0.132, , Theta, 4752, 249, , 
 Omicron, 0.950, , N439R, 0.444, , – –, 0.314, 0.148, , Omicron, 4751, 250, , 
 Mu, 0.884, , K417Y, 0.413, , , , , , Mu, 4423, 478, , 
