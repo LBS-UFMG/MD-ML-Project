@@ -1,12 +1,13 @@
-﻿Variant, Mutations, System, BFE, BFE_norm, Recall
-Neutral, Y489F, Y489F, -0.141, 0.253, 0.000
-Neutral, V445L, V445L, 0.107, 0.457, 0.250
-Neutral, K417Y, K417Y, -0.450, 0.000, 0.413
-Neutral, N439R, N439R, -0.183, 0.219, 0.444
-Neutral, Y505F, Y505F, 0.172, 0.510, 0.458
-P.1, K417T; E484K; N501Y, Gamma, 0.660, 0.910, 0.603
-Epsilon, L452R, Epsilon, 0.575, 0.840, 0.653
-Kappa, L452R; E484Q, Kappa, 0.580, 0.840, 0.712
-Mu, R346K; E484K; N501Y, Mu, 0.768, 1.000, 0.884
-Theta, E484K; N501Y, Theta, 0.650, 0.902, 0.950
-
+Correlation between model performance and changes in binding free energy,,,,
+Variant,Mutation,ΔΔG,ΔΔG (norm),Recall
+Neutra,Y489F,"-0,141","0,253","0,045"
+Neutra,V445L,"0,107","0,457","0,250"
+Neutra,K417Y,"-0,450","0,000","0,413"
+Neutra,N439R,"-0,183","0,219","0,444"
+Neutra,Y505F,"0,172","0,510","0,458"
+Kappa,"L452R, E484Q","0,580","0,844","0,712"
+Teta,"E484K, N501Y","0,650","0,902","0,950"
+Epsilon,L452R,"0,575","0,840","0,653"
+P.1,"K417T, E484K, N501Y","0,660","0,910","0,603"
+Mu,"R346K, E484K, N501Y","0,768","1,000","0,884"
+,,,Correlation,"0,776"
