@@ -1,4 +1,3 @@
-Correlation between model performance and changes in binding free energy,,,,
 Variant,Mutation,ΔΔG,ΔΔG (norm),Recall
 Neutra,Y489F,"-0,141","0,253","0,045"
 Neutra,V445L,"0,107","0,457","0,250"
