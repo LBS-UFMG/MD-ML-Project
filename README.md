@@ -56,5 +56,5 @@ For BibTeX users:
   author = {Moraes dos Santos, Lucas and Gutembergue de Mendon\c{c}a, Jos{\'e} and Jer{\^o}nimo Gomes Lobo, Yan and Henrique Franca de Lima, Leonardo and Bruno Rocha, Gerd and C. de Melo-Minardi, Raquel},
   year = {2024},
   month = sep,
-  pages = {1--15},
+  pages = {1--15}
 }
