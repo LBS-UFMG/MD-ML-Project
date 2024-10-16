@@ -39,7 +39,7 @@ tensorflow==2.14.0
 
 If you use this repository in your research or project, please cite the following article:
 
-Moraes dos Santos, L., Gutembergue de Mendonça, J., Jerônimo Gomes Lobo, Y., Henrique Franca de Lima, L., Bruno Rocha, G., & C. de Melo-Minardi, R. (2024). *Deep learning for discriminating non-trivial conformational changes in molecular dynamics simulations of SARS-CoV-2 spike-ACE2*. Scientific Reports, 14(1). https://doi.org/10.1038/s41598-024-72842-w
+Moraes Dos Santos L, Gutembergue de Mendonça J, Jerônimo Gomes Lobo Y, Henrique Franca de Lima L, Bruno Rocha G, C de Melo-Minardi R. Deep learning for discriminating non-trivial conformational changes in molecular dynamics simulations of SARS-CoV-2 spike-ACE2. Sci Rep. 2024 Sep 30;14(1):22639. doi: 10.1038/s41598-024-72842-w.
 
 For BibTeX users:
 
