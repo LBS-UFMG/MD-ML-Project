@@ -1,0 +1,15 @@
+Sars-CoV-2 variants https://www.who.int/en/activities/tracking-SARS-CoV-2-variants/,,
+++,+-,-+
+L452R,T478K,E484K (P2)
+E484Q,N501Y,K417T 
+L452R+E484Q,S477N,K417N
+ L452R+T478K,N501S,"Lambda (lineage C.37: L452Q, F490S)"
+P1,V367F,R346K
+"P.3 (E484K,N501Y)",N354D,F490S
+"B.1.621(R346K, E484K, N501Y) - Mu",,G446V
+"B.1.526( E484K, S477N) - Iota",,N439K
+"B.1.351(K417N,E484K,N501Y)",,F490L
+L452Q,,Y508H
+"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7366990/ (G446V, N439K, F490L, Y508H)",,
+https://journals.asm.org/doi/full/10.1128/JVI.00617-21 (V367F),,
+https://link.springer.com/content/pdf/10.1186/s40249-021-00895-4.pdf (N354D),,
