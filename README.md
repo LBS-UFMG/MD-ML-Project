@@ -34,3 +34,27 @@ seaborn==0.11.2
 sklearn==1.0.2
 tensorflow==2.14.0
 ```
+
+#### Citing this work
+
+If you use this repository in your research or project, please cite the following article:
+
+Moraes Dos Santos L, Gutembergue de Mendonça J, Jerônimo Gomes Lobo Y, Henrique Franca de Lima L, Bruno Rocha G, C de Melo-Minardi R. Deep learning for discriminating non-trivial conformational changes in molecular dynamics simulations of SARS-CoV-2 spike-ACE2. Sci Rep. 2024 Sep 30;14(1):22639. doi: [10.1038/s41598-024-72842-w](https://doi.org/10.1038/s41598-024-72842-w).
+
+For BibTeX users:
+
+```bibtex
+@article{MoraesdosSantos2024,
+  title = {Deep learning for discriminating non-trivial conformational changes in molecular dynamics simulations of SARS-CoV-2 spike-ACE2},
+  volume = {14},
+  ISSN = {2045-2322},
+  url = {http://dx.doi.org/10.1038/s41598-024-72842-w},
+  DOI = {10.1038/s41598-024-72842-w},
+  number = {1},
+  journal = {Scientific Reports},
+  publisher = {Springer Nature},
+  author = {Moraes dos Santos, Lucas and Gutembergue de Mendon\c{c}a, Jos{\'e} and Jer{\^o}nimo Gomes Lobo, Yan and Henrique Franca de Lima, Leonardo and Bruno Rocha, Gerd and C. de Melo-Minardi, Raquel},
+  year = {2024},
+  month = sep,
+  pages = {1--15}
+}
