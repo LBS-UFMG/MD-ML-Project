@@ -58,8 +58,10 @@ For BibTeX users:
   month = sep,
   pages = {1--15}
 }
+```
 
-#### Data availability
+#### Data Availability
 
-The data used in this research are available from the authors upon request.
-📧 lucas.santos@dcc.ufmg.br
+The data used in this research are available from the authors upon request.  
+📧 [lucas.santos@dcc.ufmg.br](mailto:lucas.santos@dcc.ufmg.br)
+
